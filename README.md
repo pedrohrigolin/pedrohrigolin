@@ -10,7 +10,7 @@
 - Automação, APIs, scripts úteis
 
 ## 📂 Repositórios em destaque
-- [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — Validação de e-mails no estilo do Mailcheck.js, versão PHP.
+- [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — Biblioteca PHP para validação, filtragem e sanitização de endereços de email.
 - [Img-Converter-PHP](https://github.com/pedrohrigolin/Img-Converter-PHP) — Conversor simples de imagens em PHP (JPG, PNG, WebP).
 - [selectJS](https://github.com/pedrohrigolin/selectJS) — Componente JavaScript puro para seleção customizada.
 
@@ -35,7 +35,7 @@
 - Automation, APIs, handy scripts
 
 ## 📂 Featured repositories
-- [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — Email validation inspired by Mailcheck.js, PHP version.
+- [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — PHP library for validating, filtering, and sanitizing email addresses.
 - [Img-Converter-PHP](https://github.com/pedrohrigolin/Img-Converter-PHP) — Simple image converter in PHP (JPG, PNG, WebP).
 - [selectJS](https://github.com/pedrohrigolin/selectJS) — Lightweight custom select component in pure JavaScript.
 
