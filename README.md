@@ -45,3 +45,5 @@
 
 📫 **Email:** pedrohenriquerigbar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pedrohrigolin)
+
+---
