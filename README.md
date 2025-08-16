@@ -12,7 +12,7 @@
 ## 📂 Repositórios em destaque
 - [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — Biblioteca PHP para validação, filtragem e sanitização de endereços de email.
 - [Img-Converter-PHP](https://github.com/pedrohrigolin/Img-Converter-PHP) — Conversor simples de imagens em PHP (JPG, PNG, WebP).
-- [selectJS](https://github.com/pedrohrigolin/selectJS) — Componente JavaScript puro para seleção customizada.
+- [select-js](https://github.com/pedrohrigolin/select-js) — Componente JavaScript puro para seleção customizada.
 
 ## ☕ Sobre mim
 - Gosto de café, códigos limpos e resolver problemas de formas criativas.
@@ -37,7 +37,7 @@
 ## 📂 Featured repositories
 - [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — PHP library for validating, filtering, and sanitizing email addresses.
 - [Img-Converter-PHP](https://github.com/pedrohrigolin/Img-Converter-PHP) — Simple image converter in PHP (JPG, PNG, WebP).
-- [selectJS](https://github.com/pedrohrigolin/selectJS) — Lightweight custom select component in pure JavaScript.
+- [select-js](https://github.com/pedrohrigolin/select-js) — Lightweight custom select component in pure JavaScript.
 
 ## ☕ About me
 - I enjoy caffeine, clean code, and solving problems in creative ways.
