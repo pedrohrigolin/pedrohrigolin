@@ -13,6 +13,10 @@
 - [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — Biblioteca PHP para validação, filtragem e sanitização de endereços de email.
 - [Img-Converter-PHP](https://github.com/pedrohrigolin/Img-Converter-PHP) — Conversor simples de imagens em PHP (JPG, PNG, WebP).
 - [select-js](https://github.com/pedrohrigolin/select-js) — Componente JavaScript puro para seleção customizada.
+- [Toastlet Notify](https://github.com/pedrohrigolin/toastlet-notify) — Biblioteca JavaScript leve e sem dependências para notificações toast responsivas.
+
+## 🏫 Projetos institucionais
+- [Projeto TVBox — IFSP Campus Salto](https://github.com/projetotvbox) — Membro do time de desenvolvimento. Projeto de extensão que reutiliza TV boxes apreendidas pela Receita Federal, instalando distribuições Linux open-source (Armbian) para uso em escolas públicas.
 
 ## ☕ Sobre mim
 - Gosto de café, códigos limpos e resolver problemas de formas criativas.
@@ -38,6 +42,10 @@
 - [Mailcheck-PHP](https://github.com/pedrohrigolin/Mailcheck-PHP) — PHP library for validating, filtering, and sanitizing email addresses.
 - [Img-Converter-PHP](https://github.com/pedrohrigolin/Img-Converter-PHP) — Simple image converter in PHP (JPG, PNG, WebP).
 - [select-js](https://github.com/pedrohrigolin/select-js) — Lightweight custom select component in pure JavaScript.
+- [Toastlet Notify](https://github.com/pedrohrigolin/toastlet-notify) — Lightweight, zero-dependency JavaScript library for responsive toast notifications.
+
+## 🏫 Institutional projects
+- [TVBox Project — IFSP Campus Salto](https://github.com/projetotvbox) — Member of the development team. An extension project that repurposes TV boxes seized by Brazilian customs, installing open-source Linux distributions (Armbian) for use in public schools.
 
 ## ☕ About me
 - I enjoy caffeine, clean code, and solving problems in creative ways.
