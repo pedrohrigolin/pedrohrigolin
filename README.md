@@ -1,8 +1,5 @@
 # 👋 Olá! Eu sou o Pedro
 
-### 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohrigolin&show_icons=true&theme=dracula&hide_border=true&locale=pt-br)
-
 ![Profile views](https://komarev.com/ghpvc/?username=pedrohrigolin&color=0A66C2&style=flat-square)
 
 💻 Explorando o código e a vida, uma linha de cada vez. Curioso por natureza, de vez em quando tiro ideias da cabeça e transformo em bibliotecas, apps e scripts — algumas viram soluções eficazes, outras, só projetos tirados da gaveta.
